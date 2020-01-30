@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SE_QueueProjectorItems", "SE_ShipPrinter\SE_QueueProjectorItems.csproj", "{FD1609CE-5A4D-4656-8060-C3E34F580244}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD1609CE-5A4D-4656-8060-C3E34F580244}.Debug|x64.ActiveCfg = Debug|x64
+		{FD1609CE-5A4D-4656-8060-C3E34F580244}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7155D0B7-1C1C-4B93-A98E-16B00C7EEA39}
+	EndGlobalSection
+EndGlobal
