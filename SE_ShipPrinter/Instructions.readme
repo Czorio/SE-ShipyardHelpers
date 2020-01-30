@@ -1,5 +1,12 @@
-﻿R e a d m e
+﻿Queue Projector Items
 -----------
 
-In this file you can include any instructions or other comments you want to have injected onto the 
-top of your final script. You can safely delete this file if you do not want any such comments.
+--Usage--
+1. Add "{SP}" to your projector's and assembler's name fields
+2. Click or trigger the programmable block's Run function
+3. The components should be added to the production queue
+
+--Notes--
+- It's probably smart to assign an Advanced Assembler, in case some components are not supported
+- Armor Blocks are currently not queued. This is mainly because projectors do not report individual armor blocks, but only a generic "armor block" amount.
+- The current stock of parts is currently not taken into account when deciding what to produce.
